@@ -20,13 +20,17 @@
         <p><b class="pr-2">Email</b> contact@pranjalkumar.com</p>
         <p>
             <b class="pr-2">GitHub</b>
-            <a href="https://github.com/euphoric-habromaniac" target="_blank" class="text-violet-400"
-                >Euphoric Habromaniack<sup class=""
-                    ><span class="text-xs scale-75 pl-0.5"
-                        ><i
-                            class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"
-                        /></span
-                    ></sup
+            <a 
+                href="https://github.com/euphoric-habromaniac" 
+                target="_blank" 
+                class="text-violet-400"
+                >
+                Euphoric Habromaniac
+                <sup class="">
+                    <span class="text-xs scale-75 pl-0.5">
+                        <i class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"></i>
+                        </span>
+                </sup
                 ></a
             >
         </p>
