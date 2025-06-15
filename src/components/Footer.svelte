@@ -40,9 +40,9 @@
                 >pranjalkumar1024<sup class=""
                     ><span class="text-xs scale-75 pl-0.5"
                         ><i
-                            class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"
-                        /></span
-                    ></sup
+                            i class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"></i>
+                            </span>
+                        </sup
                 ></a
             >
         </p>
