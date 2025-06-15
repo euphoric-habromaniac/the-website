@@ -99,8 +99,7 @@
                 class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950"
             >
                 <div
-                    class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200" href="mailto:contact@pranjalkumar.com" 
-                />
+                    class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200" href="mailto:contact@pranjalkumar.com"></div>
                 <h4 class="relative z-9">Get in touch &rarr;</h4>
             </button>
             </a>
@@ -142,7 +141,7 @@
             target="_blank"
             class="mx-auto px-4 py-2 rounded-md border border-solid border-white flex items-center gap-2 -mb-4 sm:-mb-0 -mt-10 hover:border-violet-700 duration-200"
         >
-            <i class="fa-regular fa-circle-play" />
+            <i class="fa-regular fa-circle-play"></i>
             <p>Watch the video</p>
         </a>
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
@@ -249,7 +248,7 @@
             <table class="bg-white text-slate-700 rounded text-center">
                 <thead class={"border-b border-solid border-slate-200  "}>
                     <tr class="">
-                        <th />
+                        <th ></th>
                         <th class="whitespace-nowrap p-2 px-4">Candidate #1</th>
                         <th class="whitespace-nowrap p-2 px-4">Candidate #2</th>
                         <th class="whitespace-nowrap p-2 px-4">Candidate #3</th>
@@ -265,40 +264,40 @@
                             class="border-r border-solid border-white pl-4 pr-8 py-4 font-semibold text-sm"
                             >Dedication</td
                         >
-                        <td><i class="fa-solid fa-xmark text-slate-500" /></td>
-                        <td><i class="fa-solid fa-check text-slate-500" /></td>
-                        <td><i class="fa-solid fa-xmark text-slate-500" /></td>
-                        <td><i class="fa-solid fa-check text-green-500" /></td>
+                        <td><i class="fa-solid fa-xmark text-slate-500" ></i></td>
+                        <td><i class="fa-solid fa-check text-slate-500" ></i></td>
+                        <td><i class="fa-solid fa-xmark text-slate-500" ></i></td>
+                        <td><i class="fa-solid fa-check text-green-500" ></i></td>
                     </tr>
                     <tr class="border-b border-solid border-slate-200">
                         <td
                             class="border-r border-solid border-white pl-4 pr-8 py-4 font-semibold text-sm"
                             >Critical Thought</td
                         >
-                        <td><i class="fa-solid fa-xmark text-slate-500" /></td>
-                        <td><i class="fa-solid fa-check text-slate-500" /></td>
-                        <td><i class="fa-solid fa-check text-slate-500" /></td>
-                        <td><i class="fa-solid fa-check text-green-500" /></td>
+                        <td><i class="fa-solid fa-xmark text-slate-500" ></i></td>
+                        <td><i class="fa-solid fa-check text-slate-500" ></i></td>
+                        <td><i class="fa-solid fa-check text-slate-500" ></i></td>
+                        <td><i class="fa-solid fa-check text-green-500" ></i></td>
                     </tr>
                     <tr>
                         <td
                             class="border-r border-solid border-white pl-4 pr-8 py-4 font-semibold text-sm"
                             >Interpersonal Skills</td
                         >
-                        <td><i class="fa-solid fa-check text-slate-500" /></td>
-                        <td><i class="fa-solid fa-check text-slate-500" /></td>
-                        <td><i class="fa-solid fa-xmark text-slate-500" /></td>
-                        <td><i class="fa-solid fa-check text-green-500" /></td>
+                        <td><i class="fa-solid fa-check text-slate-500" ></i></td>
+                        <td><i class="fa-solid fa-check text-slate-500" ></i></td>
+                        <td><i class="fa-solid fa-xmark text-slate-500" ></i></td>
+                        <td><i class="fa-solid fa-check text-green-500" ></i></td>
                     </tr>
                     <tr class="border-t border-solid border-slate-200">
                         <td
                             class="border-r border-solid border-white pl-4 pr-8 py-4 font-semibold text-sm"
                             >Progamming Ability</td
                         >
-                        <td><i class="fa-solid fa-check text-slate-500" /></td>
-                        <td><i class="fa-solid fa-xmark text-slate-500" /></td>
-                        <td><i class="fa-solid fa-check text-slate-500" /></td>
-                        <td><i class="fa-solid fa-check text-green-500" /></td>
+                        <td><i class="fa-solid fa-check text-slate-500"></i>></td>
+                        <td><i class="fa-solid fa-xmark text-slate-500" ></i></td>
+                        <td><i class="fa-solid fa-check text-slate-500" ></i></td>
+                        <td><i class="fa-solid fa-check text-green-500" ></i></td>
                     </tr>
                 </tbody>
             </table>
