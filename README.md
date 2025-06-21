@@ -1,8 +1,3 @@
-perfect. here’s your tailored, professional-grade `README.md`:
-
----
-
-````markdown
 # the website
 
 A personal portfolio built using **Svelte** and **Tailwind CSS**, designed to showcase my projects, skills, and growth as a developer. The site includes subtle animations and interactive visuals to keep the experience clean yet engaging.
