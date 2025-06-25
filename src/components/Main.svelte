@@ -104,13 +104,19 @@
             </button>
             </a>
         </div>
-        <div class="relative shadow-2xl grid place-items-center">
-            <img
-                src={"images/profile.png"}
-                alt=""
-                class="object-cover z-[2] max-h-[70vh]"
-            />
+        <div class="relative shadow-2xl grid place-items-center max-h-[70vh]">
+            {#if typeof window !== 'undefined'}
+                <lottie-player
+                    src="/assets/lottie.json"
+                    background="transparent"
+                    speed="1"
+                    loop
+                    autoplay
+                    style="width: 100%; height: 100%; max-height: 70vh"
+                ></lottie-player>
+            {/if}
         </div>
+
         <!-- <div  class="flex p-0.5 relative max-w-[700px] w-full mx-auto">
             <div
                 class="absolute inset-0 overflow-hidden rounded-md flex items-center justify-center"
