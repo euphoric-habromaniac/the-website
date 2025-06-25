@@ -5,7 +5,7 @@
         {
             name: "VulnScanner CLI",
             icon: "fa-solid fa-bug",
-            href: "", // Add the actual link to the project
+            href: "https://github.com/euphoric-habromaniac/vulnerability-scanner", // Add the actual link to the project
             description:
                 "VulnScanner CLI is a lightweight Python-based command-line tool that scans for open ports, outdated server banners, missing security headers, and known vulnerabilities using public APIs. It mimics basic recon workflows used in pentesting and bug bounty hunting.",
         },
